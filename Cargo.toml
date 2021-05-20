@@ -1,5 +1,5 @@
 [package]
-name = "am2"
+name = "grid_value"
 version = "0.1.0"
 authors = ["spencerwhite <2003spencerwhite@gmail.com>"]
 edition = "2018"
